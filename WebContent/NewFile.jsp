@@ -21,6 +21,10 @@
 <td>46221033</td>
 <td>oscar</td>
 </tr>
+<tr>
+<td>235659</td>
+<td>juan</td>
+</tr>
 </tbody>
 </table>
 </body>
